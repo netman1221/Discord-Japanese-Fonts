@@ -9,9 +9,9 @@ Discordで __Ctrl + Shift + I__ を押してください。
 
 __[ここからの作業はわかりにくいのでビデオにしました。](https://ppn.pw/i/pc/fb8dc3b7/u0rspxvd.mp4)__
 
-__Elements__ を開いたら __<head>__ というタグ ( <head>...</head> と表記されている場合もあります) を右クリックします。
+__Elements__ を開いたら __``<head>``__ というタグ ( ``<head>...</head>`` と表記されている場合もあります) を右クリックします。
 
-開かれた枠内の、__</head>__ の前に
+開かれた枠内の、__``</head>``__ の前に
 
 ```
 <link rel="stylesheet" type="text/css" href="https://cdn.ppn.pw/css/discord/jp-font.css">
