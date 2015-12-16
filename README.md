@@ -7,7 +7,7 @@ Discordで __Ctrl + Shift + I__ を押してください。
 
 すると、__Developer Tools__ というウィンドウが出てくるので、その中の __Elements__ というタブを開いてください。
 
-[ここからの作業はわかりにくいのでビデオにしました。](https://ppn.pw/i/pc/fb8dc3b7/mn7ov46z.mp4)
+__[ここからの作業はわかりにくいのでビデオにしました。](https://ppn.pw/i/pc/fb8dc3b7/mn7ov46z.mp4)__
 
 __Elements__ を開いたら __<body>__ というタグを選択し、右側のプロパティタブを __Styles__ にします。
 
